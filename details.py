@@ -1,7 +1,7 @@
 import os
 
-api_id = 22779671
-api_hash = "125d8d88b77309dc3b154cbbfc2dacb2"
+api_id = 24763783
+api_hash = "0534b1088b5197e703895f37fb78d311"
 bot_token = "6499994285:AAEAxvQXn9isDP_myYf8dZQeb0wlJjoLRpU"
 auth_users = [1871785273]
 sudo_user = 1871785273
