@@ -326,11 +326,13 @@ try:
 
    
     except Exception as error:
-        LOGGER.error(f'Error: {error}')  # Log the error
+
+        print(f'Error : {error}')
+
         await m.reply(
             (
                 '**'
-                f'Error: {error}'
+                f'Error : {error}'
                 '**'
             ),
             quote=True
